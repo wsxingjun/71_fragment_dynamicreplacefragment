@@ -1,0 +1,2 @@
+# 71_fragment_dynamicreplacefragment
+知识点：fragment 动态替换fragment 根据横竖屏的不同，fragment1和fragment2进行切换
